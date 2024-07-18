@@ -1,6 +1,6 @@
 @media screen and (max-width: 1400px) {
   #profile {
-    height: 94vh;
+    height: 85vh;
     margin-bottom: 8rem;
   }
 }
@@ -15,6 +15,7 @@
   #experience,
   .experience-details-container {
     margin-top: 2rem;
+    margin-bottom: 1rem;
   }
   #profile,
   .section-container {
